@@ -1,0 +1,7 @@
+1)Enter the cycle count:                  >> Enter the number of generations the code should continue for
+2)How many cells do you want to populate: >> Enter the number of cells you want to populate
+3)Enter the cells to be populated:        >> Enter the co-ordinates of the cells you want to populate
+                                             The input format is: x,y
+                                             Press enter after giving the input
+
+The program will start from 0th generation.
